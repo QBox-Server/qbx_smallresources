@@ -13,7 +13,7 @@ return {
         [`RHINO`] = true,
         [`FIRETRUK`] = true,
         [`MULE`] = true,
-        [`MAVERICK`] = true,
+        [`MAVERICK`] = false,
         [`BLIMP`] = true,
         [`AIRTUG`] = true,
         [`CAMPER`] = true,
